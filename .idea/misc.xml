@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/micho/StudioProjects/Images-To-Pdf-Converter-Kotlin-main/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/micho/StudioProjects/Images-To-Pdf-Converter-Kotlin-main/app/src/main/res/layout/activity_setting.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/micho/StudioProjects/Images-To-Pdf-Converter-Kotlin-main/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/micho/StudioProjects/Images-To-Pdf-Converter-Kotlin-main/app/src/main/res/layout/error_dialogs.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/micho/StudioProjects/Images-To-Pdf-Converter-Kotlin-main/app/src/main/res/layout/progress_bar.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/micho/StudioProjects/Images-To-Pdf-Converter-Kotlin-main/app/src/main/res/layout/sucsess_dialogs.xml" value="0.17831813576494426" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
